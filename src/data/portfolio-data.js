@@ -55,7 +55,7 @@ import Instagram_Threads_Generator_image4 from "../../public/assets/img/aiAssist
 import Replies_for_Instagram_image4 from "../../public/assets/img/aiAssistant/repliesForFacebook/coverPage/oneOne.webp";
 import Replies_for_LinkedIn_image4 from "../../public/assets/img/aiAssistant/repliesForLinkedin/coverPage/oneOne.webp";
 import Replies_for_Twitter_image4 from "../../public/assets/img/aiAssistant/repliesForTwitter/coverPage/oneOne.webp";
-import Replies_for_Facebook_image4 from "../../public/assets/img/aiAssistant/Replies for facebook/coverPage/1 (9).webp";
+import Replies_for_Facebook_image4 from "../../public/assets/img/aiAssistant/repliesForFacebook/coverPage/oneOne.webp";
 import yt_ideas_content_planner_4 from "../../public/assets/img/aiAssistant/ytIdeas&ContentPlanner/coverPage/ytCoverPage.jpg";
 import title_and_thumbnail_ideas_4 from "../../public/assets/img/aiAssistant/titles&ThumbnailIdeas/coverPage/oneOne.webp";
 import yt_script_creator_4 from "../../public/assets/img/aiAssistant/ytScriptCreator/coverPage/oneOne.webp";
