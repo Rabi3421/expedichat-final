@@ -1,5 +1,5 @@
 
-import blog_topic_ideas_4 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Topic Ideas/cover page/Blog-Topic-Ideas.webp";
+import blog_topic_ideas_4 from "../../public/assets/img/aiAssistant/Blog-Tool/Blog-Topic-Ideas/cover-page/Blog-Topic-Ideas.webp";
 import blog_outline_4 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Outline/cover page/Blog-outlines.webp";
 import blog_content_4 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Content/cover page/Blog-Content.webp";
 import blog_img_brief_4 from "../../public/assets/img/aiAssistant/Blog Tool/Image Brief for Blog/cover page/Image-Brief-for-Blog.webp";
