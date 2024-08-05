@@ -1,6 +1,6 @@
 
 import blog_topic_ideas_4 from "../../public/assets/img/aiAssistant/blogTool/blogTopicIdeas/coverPage/Blog-Topic-Ideas.webp";
-import blog_outline_4 from "../../public/assets/img/aiAssistant/blogTool/blogOutline/coverPage/Blog-outlines.webp";
+import blog_outline_4 from "../../public/assets/img/aiAssistant/blogTool/blogOutline/coverPage/blogOutlines.webp";
 import blog_content_4 from "../../public/assets/img/aiAssistant/blogTool/blogContent/coverPage/Blog-Content.webp";
 import blog_img_brief_4 from "../../public/assets/img/aiAssistant/blogTool/imageBriefForBlog/coverPage/Image-Brief-for-Blog.webp";
 import blog_title_generator_4 from "../../public/assets/img/aiAssistant/blogTool/blogTitleGenerator/coverPage/Blog-Title-Generator.webp";
