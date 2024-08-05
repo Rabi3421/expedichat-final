@@ -30,93 +30,93 @@ import solution_2 from "../../public/assets/img/project/solution-2.jpg";
 // import blog_topic_ideas_2 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Title Generator/Helps-in-targeting-keywords.webp";
 // import blog_topic_ideas_3 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Title Generator/suggesting-trending-topics-2.webp";
 
-import blog_topic_ideas_1 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Topic Ideas/Generate-creative-blog-titles-quickly.webp";
-import blog_topic_ideas_2 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Topic Ideas/Helps-in-targeting-keywords.webp";
-import blog_topic_ideas_3 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Topic Ideas/suggesting-trending-topics-2.webp";
+import blog_topic_ideas_1 from "../../public/assets/img/aiAssistant/blogTool/blogTopicIdeas/Generate-creative-blog-titles-quickly.webp";
+import blog_topic_ideas_2 from "../../public/assets/img/aiAssistant/blogTool/blogTopicIdeas/Helps-in-targeting-keywords.webp";
+import blog_topic_ideas_3 from "../../public/assets/img/aiAssistant/blogTool/blogTopicIdeas/suggesting-trending-topics-2.webp";
 // import blog_topic_ideas_4 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Topic Ideas/cover page/Blog-Topic-Ideas.webp";
 
-import blog_outline_1 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Outline/Generate-Blog-Outlines-Instantly.webp";
-import blog_outline_2 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Outline/Quickly-generate-diverse-outlines-on-any-topic.webp";
-import blog_outline_3 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Outline/Time-saving-with-trending-topics-and-creative-ideas.webp";
+import blog_outline_1 from "../../public/assets/img/aiAssistant/blogTool/blogOutline/Generate-Blog-Outlines-Instantly.webp";
+import blog_outline_2 from "../../public/assets/img/aiAssistant/blogTool/blogOutline/Quickly-generate-diverse-outlines-on-any-topic.webp";
+import blog_outline_3 from "../../public/assets/img/aiAssistant/blogTool/blogOutline/Time-saving-with-trending-topics-and-creative-ideas.webp";
 // import blog_outline_4 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Outline/cover page/Blog-outlines.webp";
 
-import blog_content_1 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Content/Efficient-Blog-Content-at-Your-Fingertips-4.webp";
-import blog_content_2 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Content/maintain-a-steady-flow-of-blog-content.webp";
-import blog_content_3 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Content/Produce-consistently-high-quality-articles.webp";
+import blog_content_1 from "../../public/assets/img/aiAssistant/blogTool/blogContent/Efficient-Blog-Content-at-Your-Fingertips-4.webp";
+import blog_content_2 from "../../public/assets/img/aiAssistant/blogTool/blogContent/maintain-a-steady-flow-of-blog-content.webp";
+import blog_content_3 from "../../public/assets/img/aiAssistant/blogTool/blogContent/Produce-consistently-high-quality-articles.webp";
 // import blog_content_4 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Content/cover page/Blog-Content.webp";
 
-import blog_img_brief_1 from "../../public/assets/img/aiAssistant/Blog Tool/Image Brief for Blog/Transform-Your-Blog-with-Image-Briefs.webp";
-import blog_img_brief_2 from "../../public/assets/img/aiAssistant/Blog Tool/Image Brief for Blog/Tailor-images-to-amplify-your-blog_s-impact.webp";
-import blog_img_brief_3 from "../../public/assets/img/aiAssistant/Blog Tool/Image Brief for Blog/flow-of-content.webp";
+import blog_img_brief_1 from "../../public/assets/img/aiAssistant/blogTool/imageBriefForBlog/Transform-Your-Blog-with-Image-Briefs.webp";
+import blog_img_brief_2 from "../../public/assets/img/aiAssistant/blogTool/imageBriefForBlog/Tailor-images-to-amplify-your-blog_s-impact.webp";
+import blog_img_brief_3 from "../../public/assets/img/aiAssistant/blogTool/imageBriefForBlog/flow-of-content.webp";
 // import blog_img_brief_4 from "../../public/assets/img/aiAssistant/Blog Tool/Image Brief for Blog/cover page/Image-Brief-for-Blog.webp";
 
 
-import blog_title_generator_1 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Title Generator/Generate-Catchy-Blog-Titles-in-Seconds.2.webp";
-import blog_title_generator_2 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Title Generator/Enhance-SEO-blog--keyoward.webp";
-import blog_title_generator_3 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Title Generator/generating-titles-instantly.webp";
+import blog_title_generator_1 from "../../public/assets/img/aiAssistant/blogTool/blogTitleGenerator/Generate-Catchy-Blog-Titles-in-Seconds.2.webp";
+import blog_title_generator_2 from "../../public/assets/img/aiAssistant/blogTool/blogTitleGenerator/Enhance-SEO-blog--keyoward.webp";
+import blog_title_generator_3 from "../../public/assets/img/aiAssistant/blogTool/blogTitleGenerator/generating-titles-instantly.webp";
 // import blog_title_generator_4 from "../../public/assets/img/aiAssistant/Blog Tool/Blog Title Generator/cover page/Blog-Title-Generator.webp";
 
-import quick_1_click_blog_post_1 from "../../public/assets/img/aiAssistant/Blog Tool/Quick 1-Click Blog post/Feature-Your-Posts-Instantly-from-Just-a-Title.webp";
-import quick_1_click_blog_post_2 from "../../public/assets/img/aiAssistant/Blog Tool/Quick 1-Click Blog Post/Enhances-productivity-for-bloggers.webp";
-import quick_1_click_blog_post_3 from "../../public/assets/img/aiAssistant/Blog Tool/Quick 1-Click Blog Post/Streamlines-the-content-creation-process.webp";
+import quick_1_click_blog_post_1 from "../../public/assets/img/aiAssistant/blogTool/quick1ClickBlogpost/Feature-Your-Posts-Instantly-from-Just-a-Title.webp";
+import quick_1_click_blog_post_2 from "../../public/assets/img/aiAssistant/blogTool/quick1ClickBlogpost/Enhances-productivity-for-bloggers.webp";
+import quick_1_click_blog_post_3 from "../../public/assets/img/aiAssistant/blogTool/quick1ClickBlogpost/Streamlines-the-content-creation-process.webp";
 // import quick_1_click_blog_post_4 from "../../public/assets/img/aiAssistant/Blog Tool/Quick 1-Click Blog Post/cover page/Quick-1 click Blog-post.webp";
 
-import rewrite_article_1 from "../../public/assets/img/aiAssistant/Blog Tool/Rewrite Article with Keywords/Refresh-Content-with-Keywords.webp";
-import rewrite_article_2 from "../../public/assets/img/aiAssistant/Blog Tool/Rewrite Article with Keywords/audience-interests.webp";
-import rewrite_article_3 from "../../public/assets/img/aiAssistant/Blog Tool/Rewrite Article with Keywords/targeted-keyword-integration.webp";
+import rewrite_article_1 from "../../public/assets/img/aiAssistant/blogTool/rewriteArticleWithKeywords/Refresh-Content-with-Keywords.webp";
+import rewrite_article_2 from "../../public/assets/img/aiAssistant/blogTool/rewriteArticleWithKeywords/audience-interests.webp";
+import rewrite_article_3 from "../../public/assets/img/aiAssistant/blogTool/rewriteArticleWithKeywords/targeted-keyword-integration.webp";
 // import rewrite_article_4 from "../../public/assets/img/aiAssistant/Blog Tool/Rewrite Article with Keywords/cover page/Rewrite-Article-with-Keywords.webp";
 
-import advanced_blog_1 from "../../public/assets/img/aiAssistant/Blog Tool/Advanced Blog post/Advanced-Blogging-Tactics.jpg";
-import advanced_blog_2 from "../../public/assets/img/aiAssistant/Blog Tool/Advanced Blog post/Attract-more-visitors-and-grow-your-reach.jpg";
-import advanced_blog_3 from "../../public/assets/img/aiAssistant/Blog Tool/Advanced Blog post/Position-yourself-as-a-trusted-expert.jpg";
+import advanced_blog_1 from "../../public/assets/img/aiAssistant/blogTool/advancedBlogPost/Advanced-Blogging-Tactics.jpg";
+import advanced_blog_2 from "../../public/assets/img/aiAssistant/blogTool/advancedBlogPost/Attract-more-visitors-and-grow-your-reach.jpg";
+import advanced_blog_3 from "../../public/assets/img/aiAssistant/blogTool/advancedBlogPost/Position-yourself-as-a-trusted-expert.jpg";
 // import advanced_blog_4 from "../../public/assets/img/aiAssistant/Blog Tool/Advanced Blog post/cover page/Advanced-Blog-post.webp";
 
-import seo_optimized_blog_1  from "../../public/assets/img/aiAssistant/Blog Tool/SEO-Optimized Blog Post/Craft-SEO-Friendly.webp";
-import seo_optimized_blog_2  from "../../public/assets/img/aiAssistant/Blog Tool/SEO-Optimized Blog Post/content-that-resonates-with-your-audience.webp";
-import seo_optimized_blog_3  from "../../public/assets/img/aiAssistant/Blog Tool/SEO-Optimized Blog Post/visibility-on-search-engines.webp";  
+import seo_optimized_blog_1  from "../../public/assets/img/aiAssistant/blogTool/seoOptimizedBlogPost/Craft-SEO-Friendly.webp";
+import seo_optimized_blog_2  from "../../public/assets/img/aiAssistant/blogTool/seoOptimizedBlogPost/content-that-resonates-with-your-audience.webp";
+import seo_optimized_blog_3  from "../../public/assets/img/aiAssistant/blogTool/seoOptimizedBlogPost/visibility-on-search-engines.webp";  
 // import seo_optimized_blog_4  from "../../public/assets/img/aiAssistant/Blog Tool/SEO-Optimized Blog Post/cover page/SEO-Optimized-Blog-Post.webp";
 
-import human_written_blog_post_1 from "../../public/assets/img/aiAssistant/Blog Tool/Human Written Blog Post/Human-Written-Blogging-Made-Easy.webp";
-import human_written_blog_post_2 from "../../public/assets/img/aiAssistant/Blog Tool/Human Written Blog Post/content-that-engages-readers.webp";
-import human_written_blog_post_3 from "../../public/assets/img/aiAssistant/Blog Tool/Human Written Blog Post/SEO-best-practices.webp";
+import human_written_blog_post_1 from "../../public/assets/img/aiAssistant/blogTool/humanWrittenBlogPost/Human-Written-Blogging-Made-Easy.webp";
+import human_written_blog_post_2 from "../../public/assets/img/aiAssistant/blogTool/humanWrittenBlogPost/content-that-engages-readers.webp";
+import human_written_blog_post_3 from "../../public/assets/img/aiAssistant/blogTool/humanWrittenBlogPost/SEO-best-practices.webp";
 // import human_written_blog_post_4 from "../../public/assets/img/aiAssistant/Blog Tool/Human Written Blog Post/cover page/Human-Written-Blog-Post.webp";
 
 
-import domain_name_1 from "../../public/assets/img/aiAssistant/Website Content Tools/Domain Name Ideas/Create-an-Unforgettable-Web-Address.webp";
-import domain_name_2 from "../../public/assets/img/aiAssistant/Website Content Tools/Domain Name Ideas/Builds-trust-and-credibility-with-users.webp";
-import domain_name_3 from "../../public/assets/img/aiAssistant/Website Content Tools/Domain Name Ideas/Attracts-and-retains-more-site-visitors.webp";
+import domain_name_1 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Domain-Name-Ideas/Create-an-Unforgettable-Web-Address.webp";
+import domain_name_2 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Domain-Name-Ideas/Builds-trust-and-credibility-with-users.webp";
+import domain_name_3 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Domain-Name-Ideas/Attracts-and-retains-more-site-visitors.webp";
 // import domain_name_4 from "../../public/assets/img/aiAssistant/Website Content Tools/Domain Name Ideas/cover page/Domain-Name-Ideas.webp";
 
-import creative_homepage_1 from "../../public/assets/img/aiAssistant/Website Content Tools/Creative Home Page/Design-the-Perfect-Homepage.webp";
-import creative_homepage_2 from "../../public/assets/img/aiAssistant/Website Content Tools/Creative Home Page/Boosts online brand recognition quickly.webp";
-import creative_homepage_3 from "../../public/assets/img/aiAssistant/Website Content Tools/Creative Home Page/Enhances user experience seamlessly.webp";
+import creative_homepage_1 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Creative-Home-Page/Design-the-Perfect-Homepage.webp";
+import creative_homepage_2 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Creative-Home-Page/Boosts-online-brand-recognition-quickly.webp";
+import creative_homepage_3 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Creative-Home-Page/Enhances-user-experience-seamlessly.webp";
 // import creative_homepage_4 from "../../public/assets/img/aiAssistant/Website Content Tools/Creative Home Page/cover page/Creative-Home-Page.webp";
 
-import service_page_1 from "../../public/assets/img/aiAssistant/Website Content Tools/Service Page Content/Build-Your-Service-Page-Today.webp";
-import service_page_2 from "../../public/assets/img/aiAssistant/Website Content Tools/Service Page Content/Attracts-potential-clients-with-ease.webp";
-import service_page_3 from "../../public/assets/img/aiAssistant/Website Content Tools/Service Page Content/Enhances website professionalism effortlessly.webp";
+import service_page_1 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Service-Page-Content/Build-Your-Service-Page-Today.webp";
+import service_page_2 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Service-Page-Content/Attracts-potential-clients-with-ease.webp";
+import service_page_3 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Service-Page-Content/Enhances website professionalism effortlessly.webp";
 // import service_page_4 from "../../public/assets/img/aiAssistant/Website Content Tools/Service Page Content/cover page/Service-Page-Content.webp";
 
-import about_us_page_1 from "../../public/assets/img/aiAssistant/Website Content Tools/About Us page/About-Us-page.webp"; 
-import about_us_page_2 from "../../public/assets/img/aiAssistant/Website Content Tools/About Us page/brand-storytelling.webp";
-import about_us_page_3 from "../../public/assets/img/aiAssistant/Website Content Tools/About Us page/Communicates company values effectively.webp";
+import about_us_page_1 from "../../public/assets/img/aiAssistant/Website-Content-Tools/About-Us-page/About-Us-page.webp"; 
+import about_us_page_2 from "../../public/assets/img/aiAssistant/Website-Content-Tools/About-Us-page/brand-storytelling.webp";
+import about_us_page_3 from "../../public/assets/img/aiAssistant/Website-Content-Tools/About-Us-page/Communicates-company-values-effectively.webp";
 // import about_us_page_4 from "../../public/assets/img/aiAssistant/Website Content Tools/About Us page/cover page/About-Us-Page-Made-Simple.webp";
 
-import get_service_description_1 from "../../public/assets/img/aiAssistant/Website Content Tools/Get Service Description/Access-Service-Descriptions-with-Ease.webp";
-import get_service_description_2 from "../../public/assets/img/aiAssistant/Website Content Tools/Get Service Description/Enhances-clarity-with-concise-descriptions.webp";
-import get_service_description_3 from "../../public/assets/img/aiAssistant/Website Content Tools/Get Service Description/Saves-time-by-providing-quick-service-details.webp";
+import get_service_description_1 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Get-Service-Description/Access-Service-Descriptions-with-Ease.webp";
+import get_service_description_2 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Get-Service-Description/Enhances-clarity-with-concise-descriptions.webp";
+import get_service_description_3 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Get-Service-Description/Saves-time-by-providing-quick-service-details.webp";
 // import get_service_description_4 from "../../public/assets/img/aiAssistant/Website Content Tools/Get Service Description/cover page/Get-Service-Description.webp";
 
 
-import individual_service_full_page_1 from "../../public/assets/img/aiAssistant/Website Content Tools/Individual Service- Full page/Empower-Your-Service-Journey.webp";
-import individual_service_full_page_2 from "../../public/assets/img/aiAssistant/Website Content Tools/Individual Service- Full page/Delivers customized solutions with clarity and precision.webp";
-import individual_service_full_page_3 from "../../public/assets/img/aiAssistant/Website Content Tools/Individual Service- Full page/Provides detailed insights for informed decisions.webp";
+import individual_service_full_page_1 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Individual-Service-Full-page/Empower-Your-Service-Journey.webp";
+import individual_service_full_page_2 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Individual-Service-Full-page/Delivers-customized-solutions-with-clarity-and-precision.webp";
+import individual_service_full_page_3 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Individual-Service-Full-page/Provides-detailed-insights-for-informed-decisions.webp";
 // import individual_service_full_page_4 from "../../public/assets/img/aiAssistant/Website Content Tools/Individual Service- Full page/cover page/Individual-Service--Full-page.webp";
 
 
-import image_content_of_the_landing_page_1 from "../../public/assets/img/aiAssistant/Website Content Tools/Image Content of the Landing Page/Enhance-Your-Landing-Page-with-Stunning-Visuals.webp";
-import image_content_of_the_landing_page_2 from "../../public/assets/img/aiAssistant/Website Content Tools/Image Content of the Landing Page/Engage viewers with stunning visuals.webp";
-import image_content_of_the_landing_page_3 from "../../public/assets/img/aiAssistant/Website Content Tools/Image Content of the Landing Page/Effortless creation of eye-catching images.webp";
+import image_content_of_the_landing_page_1 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Image-Content-of-the-Landing-Page/Enhance-Your-Landing-Page-with-Stunning-Visuals.webp";
+import image_content_of_the_landing_page_2 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Image-Content-of-the-Landing-Page/Engage-viewers-with-stunning-visuals.webp";
+import image_content_of_the_landing_page_3 from "../../public/assets/img/aiAssistant/Website-Content-Tools/Image-Content-of-the-Landing-Page/Effortless-creation-of-eye-catching-images.webp";
 // import image_content_of_the_landing_page_4 from "../../public/assets/img/aiAssistant/Website Content Tools/Image Content of the Landing Page/cover page/Image-Content-of-the-Landing-Page.webp";
 
 import generate_email_1 from "../../public/assets/img/aiAssistant/Email Tool/Generate Email/Fast,-Easy,-and-Customized-Emails.webp";
