@@ -1,0 +1,251 @@
+.container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+  }
+  .spinnerContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This makes the container cover the entire viewport height */
+    color: var(
+      --darkGreen
+    ); /* Add a semi-transparent background to overlay the content */
+    position: fixed; /* This keeps the spinner centered even when scrolling */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 999; /* Ensures the spinner is on top of everything */
+  }
+  .previewContainer {
+    /* border: 1px solid red; */
+    position: relative;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 0 60px 0 0;
+    width: 100%;
+    height: 650px;
+    overflow-y: auto;
+  }
+  .splitRange{
+    height: 500px;
+    overflow-y: auto;
+  }
+  .drawerOpen{
+    display: none;
+  }
+  .eachBox {
+    display: flex;
+    justify-content: space-between; /* Center items vertically */
+    height: 240px;
+    width: 440px;
+    padding: 20px;
+    border: 1px dashed black;
+  }
+  .thumbnailWrapper {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    flex: 0 0 auto; /* Prevent the container from growing or shrinking */
+    width: 47%; /* Set the width of each thumbnail to 100% */
+    height: 100%; /* Set the height of each thumbnail */
+    padding: 10px;
+    display: flex;
+    background-color: #f3f0ec;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+  }
+  
+  .thumbnailWrapper p {
+    margin: 5px 0; /* Add spacing inside the border */
+  }
+  
+  .preview {
+    height: 38%;
+    width: 18%;
+    overflow-y: auto;
+    position: relative;
+  }
+  .closeButton {
+    position: absolute;
+    top: 0px; /* Adjust the top position as needed */
+    right: 0px; /* Adjust the right position as needed */
+    background-color: var(--darkGreen);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    padding: 5px;
+    cursor: pointer;
+    z-index: 1; /* Ensure it's above the PDF viewer */
+  }
+  .addPdf {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+  }
+  .sideBar {
+    position: relative;
+    height: 100vh;
+    width: 30%;
+    margin-top: -50px;
+    background-color: white;
+  }
+  .sideBar > h1 {
+    font-family: var(--primaryFont);
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 10px;
+  }
+  .rangeContainer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 30px 20px;
+    border-bottom: 1px solid black;
+  }
+  .rangeContainer:hover {
+    background-color: white !important;
+  }
+  .pageInput {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  /* input[type="number"] {
+    width: 60px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  } */
+
+.deleteButton {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.addRange {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--primaryFont);
+  font-weight: 700;
+  height: 40px;
+  width: 200px;
+  background-color: black;
+  border-radius: 5px;
+  color: white;
+  margin: auto;
+}
+
+.splitPdf {
+  position: absolute;
+  bottom: 100px;
+  left: 12px;
+  display: flex;
+  height: 80px;
+  width: 95%;
+  background-color: var(--darkGreen);
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+  padding: 0 50px;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: var(--primaryFont);
+  color: white;
+  margin: auto;
+  cursor: pointer;
+}
+
+/* ----------------------------------------------------------------------------------------------------------------------- */
+/* LAPTOP RESPONSIVENESS */
+/* ----------------------------------------------------------------------------------------------------------------------- */
+@media all and (min-width: 769px) and (max-width: 1249px) {
+}
+
+/* ----------------------------------------------------------------------------------------------------------------------- */
+/* TABLET RESPONSIVENESS */
+/* ----------------------------------------------------------------------------------------------------------------------- */
+@media all and (min-width: 481px) and (max-width: 768px) {
+}
+
+/* ----------------------------------------------------------------------------------------------------------------------- */
+/* MOBILE RESPONSIVENESS */
+/* ----------------------------------------------------------------------------------------------------------------------- */
+@media all and (min-width: 360px) and (max-width: 480px) {
+  .previewContainer {
+    width: 100%;
+  }
+  .drawerOpen {
+    display: block;
+    color: black;
+    position: absolute;
+    top: 20px;
+    right: 5px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    /* border: 1px solid red; */
+  }
+  .BarcodeScanner > img {
+    height: 70%;
+    width: 80%;
+  }
+  .sideBar {
+    /* border */
+    display: none;
+  }
+  .buttonStyle {
+    border: 1px solid red;
+    width: 220px;
+  }
+  .pageInput {
+    flex: 1;
+    margin-right: 10px;
+  }
+
+  /* input[type="number"] {
+      width: 41px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    } */
+  .rangeContainer {
+    padding: 5px 0;
+  }
+  .deleteButton {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+}
